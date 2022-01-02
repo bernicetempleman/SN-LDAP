@@ -1,5 +1,7 @@
 # SNOW-LDAP
 ## Ldap
+![image](https://user-images.githubusercontent.com/12488769/147888072-1dad702d-5dab-494a-9917-995bc5286a84.png)
+
 ### 1.	Certificate (only if using port 636)
 -	New
 -- X.509 cert: ssl Attach cert from client PEM or DER format
